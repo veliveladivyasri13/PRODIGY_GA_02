@@ -25,3 +25,16 @@ Generate images from text prompts using pre-trained models like Stable Diffusion
 ## ▶️ How to Run
 
 ### Install dependencies
+
+### Run program
+## 🧪 Example
+
+**Input:**
+
+**Output:**
+Image generated and saved in `outputs/`
+
+## ✅ Conclusion
+Successfully generated images from text prompts using pre-trained generative AI models.
+
+
